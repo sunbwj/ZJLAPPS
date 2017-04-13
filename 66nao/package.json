@@ -1,0 +1,11 @@
+﻿{
+  "main": "http://114.55.116.143:91",
+  "name": "六六脑云平台",
+  "window": {
+  		"height": 768,
+        "width": 1024,
+        "show": true,
+        "toolbar": false,
+  		"title": "六六脑云平台"
+  }
+}
